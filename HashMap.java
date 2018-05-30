@@ -1,4 +1,4 @@
-
+/*Hashmap*/
 public class HashMap {
 	LinkedList[] array = new LinkedList[10];
 	String key;
